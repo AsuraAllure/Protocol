@@ -7,3 +7,5 @@
 Сервер реального времени:https://youtu.be/nLQSx6tYilc
 
 Кэширующий DNS-сервер:https://youtu.be/IvaTZtYfffo
+
+VK API: https://youtu.be/t-tJ03WWbAE 
