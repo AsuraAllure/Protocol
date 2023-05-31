@@ -9,3 +9,5 @@
 Кэширующий DNS-сервер:https://youtu.be/IvaTZtYfffo
 
 VK API: https://youtu.be/t-tJ03WWbAE 
+
+SMTP-клиент: https://youtu.be/EeQbHxplyXk
