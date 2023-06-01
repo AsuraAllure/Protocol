@@ -13,3 +13,5 @@ VK API: https://youtu.be/t-tJ03WWbAE
 SMTP-клиент: https://youtu.be/EeQbHxplyXk
 
 POP3-клиент: https://youtu.be/rvusIYauXYQ
+
+Сканер портов: https://youtu.be/lQDJlGse550
